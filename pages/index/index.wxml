@@ -1,0 +1,13 @@
+<view class="box" hover-class="boxHover"  >
+  <text selectable="false">text 行标签</text>
+</view>
+
+<text selectable >text 行标签</text>
+<text>text false行标签</text>
+<text user-select >text 行标签</text>
+<text>text false行标签</text>
+<image src="/images/84d422661175f6a7fd29ca1929bbbdcd.jpg" lazy-load="true" mode="aspectFit" ></image>
+<image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1603790908691&di=a7f05e2be1646f8452c86f247c23c0e0&imgtype=0&src=http%3A%2F%2Fimg0.imgtn.bdimg.com%2Fit%2Fu%3D1848699055%2C3540976218%26fm%3D214%26gp%3D0.jpg" lazy-load="true" mode="aspectFit" ></image>
+
+<navigator  open-type="redirect" url="/pages/logs/logs">日志页面</navigator>
+<navigator  open-type="navigate" url="/pages/logs/logs">日志页面</navigator>

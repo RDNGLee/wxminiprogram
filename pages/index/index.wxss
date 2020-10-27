@@ -1,0 +1,10 @@
+.box{
+  margin: auto;
+  padding: 10px;
+  width: 100px;
+  height: auto;
+  background-color: aqua;
+}
+.boxHover{
+  background-color: burlywood;
+}
